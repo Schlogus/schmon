@@ -44,6 +44,7 @@
     <background>background\tsGrass</background>
     <background>background\tsdirt</background>
     <background>background\tsTrailerWall</background>
+    <background>background\background4</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
